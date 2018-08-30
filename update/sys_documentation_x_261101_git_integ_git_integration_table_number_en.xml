@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_261101_git_integ_git_integration_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_261101_git_integ_git_integration_table</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-30 08:35:48</sys_created_on>
+            <sys_id>44764b60db502300a0439fd2ca9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Git Integration" source="x_261101_git_integ">b7664b60db502300a0439fd2ca961934</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Git Integration">b7664b60db502300a0439fd2ca961934</sys_scope>
+            <sys_update_name>sys_documentation_x_261101_git_integ_git_integration_table_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-30 08:35:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
